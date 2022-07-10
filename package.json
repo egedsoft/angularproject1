@@ -9,6 +9,10 @@
     "test": "ng test",
     "prestart": "node aspnetcore-https"
   },
+    "engines": {
+    "node": "~6.10.3",
+    "npm": "~3.10.5"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.0.0",
